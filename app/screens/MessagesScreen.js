@@ -11,14 +11,15 @@ import {
 const initialMessages = [
   {
     id: 1,
-    title: "Lorem ipsum dolor sit amet. Ut voluptas asperiores sit impedit asperiores sit totam officiis et magni voluptatibus sit iure iusto est illo optio. Et consequatur mollitia nam velit voluptates ut quidem deleniti eos minus voluptatem sed dolores voluptatem a atque quaerat esse corrupti! Est consequatur impedit eos eaque eligendi ut nobis ratione. Ad magnam voluptas est beatae consequatur hic magnam voluptates sed placeat adipisci vel rerum totam.",
-    description: "Lorem ipsum dolor sit amet. Ut voluptas asperiores sit impedit asperiores sit totam officiis et magni voluptatibus sit iure iusto est illo optio. Et consequatur mollitia nam velit voluptates ut quidem deleniti eos minus voluptatem sed dolores voluptatem a atque quaerat esse corrupti! Est consequatur impedit eos eaque eligendi ut nobis ratione. Ad magnam voluptas est beatae consequatur hic magnam voluptates sed placeat adipisci vel rerum totam.",
+    title: "Mosh Hamedani",
+    description: "Hey! Is this item still available?",
     image: require("../assets/mosh.jpg"),
   },
   {
     id: 2,
-    title: "Lorem ipsum dolor sit amet. Ut voluptas asperiores sit impedit asperiores sit totam officiis et magni voluptatibus sit iure iusto est illo optio. Et consequatur mollitia nam velit voluptates ut quidem deleniti eos minus voluptatem sed dolores voluptatem a atque quaerat esse corrupti! Est consequatur impedit eos eaque eligendi ut nobis ratione. Ad magnam voluptas est beatae consequatur hic magnam voluptates sed placeat adipisci vel rerum totam.",
-    description: "Lorem ipsum dolor sit amet. Ut voluptas asperiores sit impedit asperiores sit totam officiis et magni voluptatibus sit iure iusto est illo optio. Et consequatur mollitia nam velit voluptates ut quidem deleniti eos minus voluptatem sed dolores voluptatem a atque quaerat esse corrupti! Est consequatur impedit eos eaque eligendi ut nobis ratione. Ad magnam voluptas est beatae consequatur hic magnam voluptates sed placeat adipisci vel rerum totam.",
+    title: "Mosh Hamedani",
+    description:
+      "I'm interested in this item. When will you be able to post it?",
     image: require("../assets/mosh.jpg"),
   },
 ];
